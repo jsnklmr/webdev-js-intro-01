@@ -2,7 +2,7 @@
 // that are not declared
 "use strict"
 
-
+/*
 const one = 1;
 console.log(one);
 
@@ -17,3 +17,4 @@ console.log(one);
 
 let bestFriend = "Jim";
 console.log(bestFriend);
+*/
